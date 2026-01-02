@@ -2,7 +2,7 @@
 
 Recipe Calculator is a Flutter application for browsing simple recipes and scaling ingredient quantities. Users can explore a list of recipe cards, open a detail view, and adjust the number of servings with a slider that recalculates each ingredient amount. The project showcases a clean, beginner-friendly Flutter structure with Material Design widgets and local image assets.
 
-![Flutter](https://img.shields.io/badge/Flutter-stable-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flutter SDK (stable, 796c8ef)](https://img.shields.io/badge/Flutter%20SDK-stable%20(796c8ef)-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart 3.0.5](https://img.shields.io/badge/Dart-3.0.5-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin 1.7.10](https://img.shields.io/badge/Kotlin-1.7.10-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android Gradle Plugin 7.3.0](https://img.shields.io/badge/Android%20Gradle%20Plugin-7.3.0-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -195,7 +195,7 @@ Potential improvements for future versions:
 
 ## Contact
 
-For any enquiries or feedback, please contact the development team:
+For any inquiries or feedback, please contact the developer:
 
 - **Supun Wijesooriya**: [GitHub Profile](https://github.com/supunxiii)
 - **Project Repository**: [recipe-calculator](https://github.com/supunxiii/recipe-calculator)
