@@ -63,7 +63,7 @@ The Recipe Calculator Flutter application offers the following features:
 
 ## User Interfaces
 
-### UI
+### UIs
 
 ![Recipe Calculator UI](https://github.com/supunxiii/supunxiii/blob/7653f59dcf38771e7791a1cc0795c9d6b4cdcd3c/user-interfaces/recipe-calculator/recipe-calculator-ui-1.png)
 
